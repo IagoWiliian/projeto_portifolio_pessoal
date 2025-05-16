@@ -43,7 +43,7 @@ Isso abrirá o site em seu navegador padrão, e você poderá visualizar e testa
 
 Este site está disponível publicamente através do **GitHub Pages**. Você pode acessar a versão online pelo link abaixo:
 
-- [Portfólio Pessoal](https://github.com/IagoWiliian/projeto_portifolio_pessoal)
+- [Portfólio Pessoal](https://iagowiliian.github.io/projeto_portifolio_pessoal/)
 
 ## Contribuindo
 
