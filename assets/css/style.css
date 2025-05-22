@@ -98,7 +98,7 @@ p {
 }
 
 .menu_list li a:hover {
-    color: var(--purple-200);
+    color: var(--black-800);
     text-decoration: underline;
 }
 
